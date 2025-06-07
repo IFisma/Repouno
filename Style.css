@@ -1,4 +1,23 @@
 div{
     color:blanchedalmond;
     background-color: black;
+    box-shadow: 2px 2px 2px 2px cadetblue;
 }
+.boton{
+    text-align: center;
+    box-shadow: color: white;
+}
+p{
+    color: aliceblue;
+        text-align: right;
+}
+
+.texto{
+    color: blue;
+}
+.form{
+    box-shadow: color #ffffff;
+    background-color: black;
+    
+    }
+ 
