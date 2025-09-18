@@ -1,17 +1,17 @@
-body{
-    background-color: cadetblue;
-    color: black;
-}
-h1{
-    text-align: center;
-}
-li:hover{
-    background-color:cyan;
-    list-style: circle;
-}
 
-.Enlaces{
-    display: flex;
-    justify-content: center;
-    align-items:center ;
+div{
+    background-color:#ededed;
+    padding: 5%;
+    font-family: sans-serif;
+    border-left: 5px solid #999;
+
+}
+    
+span{
+    color: #999;
+    font-size: 16px;
+    font-weight: 100;
+}
+p{
+    color: #555;
 }
